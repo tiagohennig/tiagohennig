@@ -25,14 +25,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tiago-hennig/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/tiagohennig/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
   </a>
   <a href="mailto:tiago.hennig@hotmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
 ###
+
+<img href="https://raw.githubusercontent.com/tiagohennig/tiagohennig/blob/output/snake.svg" alt="Snake animation" />
