@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=tiagohennig" height="150" alt="languages graph"  />
 </div>
 
-###
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
 </div>
 
-###
+##
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tiago-hennig/">
@@ -35,6 +35,6 @@
   </a>
 </div>
 
-###
+##
 
-![Snake animation](https://github.com/tiagohennig/tiagohennig/blob/output/github-contribution-grid-snake.svg)
+
